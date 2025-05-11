@@ -75,3 +75,7 @@ pip install -r requirements.txt
 - For heavy scraping (over hundreds of coins), you may want to add random sleep intervals and use checkpoint saving to avoid losing progress.
 - Coin names may not always match OSS GitHub repositories directly, so link classification is essential.
 - Selenium scripts can be resource-intensive; ensure ChromeDriver is up-to-date.
+
+---
+## Results 
+- All the merged coin data can be found in Meta_Coins_Data.csv. 
