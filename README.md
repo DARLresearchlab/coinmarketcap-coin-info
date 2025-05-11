@@ -1,4 +1,4 @@
-# Crypto Project Metadata Collector
+# Crypto Project Data Collector
 
 This repository contains a suite of Python scripts for scraping, classifying, and merging metadata about cryptocurrency projects from CoinMarketCap. The goal is to build a structured dataset including project links, GitHub repositories, and first token trading dates, to support deeper analysis of open-source crypto ecosystems with github activities and different funding models. 
 
