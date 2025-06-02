@@ -41,7 +41,8 @@ This repository contains a suite of Python scripts for scraping, classifying, an
    `github_activity_date_collector.py`  
    - Queries GitHub API to extract the earliest commit date for each associated GitHub repository.  
    - Supports checkpointing and handles API rate limits with token rotation.  
-   - Saves to: `Earliest_GitHub_Activity_Output.csv`
+   - Output is a new CSV file containing GitHub links and the earliest GitHub activity date for each corresponding coin.
+
 
 ---
 
