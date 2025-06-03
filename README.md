@@ -103,4 +103,8 @@ pip install -r requirements.txt
 
 ---
 ## Results 
-- All the merged coin data without Earliest Activity Date can be found in Meta_Coins_Data.csv. 
+- Merged CoinMarketCap and link metadata: Meta_Coins_Data.csv.
+- Earliest GitHub activity for each project: Earliest_GitHub_Activity_Output.csv.
+- Funding model classifications: See Repo-classification-using-Chat-gpt repo.
+- GitHub activity metrics (commits, contributors): See bigquery-data-collect repo
+
